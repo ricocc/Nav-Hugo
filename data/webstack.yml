@@ -1,8 +1,8 @@
 ---
 
-- taxonomy: 常用推荐
+- taxonomy: 个人喜欢
   icon: far fa-star
-  links: 
+  links:
     - title: 语雀
       logo: 语雀.webp
       url: https://www.yuque.com/
@@ -115,7 +115,7 @@
           logo: ProcessOn.png
           url: https://www.processon.com/
           description: 免费在线作图、实时协作。
-        
+
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
@@ -156,8 +156,8 @@
           logo: 战地之王.png
           url: https://ava.mangot5.com/ava/index
           description: 台服 AVA 战地之王。
-   
-      
+
+
 - taxonomy: 素材资源
   icon: far fa-folder-open fa-lg
   list:
@@ -366,12 +366,12 @@
         - title: Abstract Fonts
           url: http://www.abstractfonts.com/
           logo: abstractfonts.png
-          description: Abstract Fonts (13,866 free fonts).      
-      
+          description: Abstract Fonts (13,866 free fonts).
+
 
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
-  list: 
+  list:
     - term: 图形创意
       links:
         - title: photoshop
@@ -449,7 +449,7 @@
         - title: webgradients
           url: https://webgradients.com/
           logo: webgradients.png
-          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. 
+          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
         - title: grabient
           url: https://www.grabient.com/
           logo: grabient.png
@@ -520,7 +520,7 @@
           url: https://www.gaoding.com
           logo: gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图。
-        
+
     - term: 谷歌插件
       links:
         - title: wappalyzer
@@ -551,7 +551,7 @@
 
 - taxonomy: 资讯学习
   icon: fas fa-pencil-alt fa-lg
-  list: 
+  list:
     - term: 资讯书籍
       links:
         - title: 微信读书
@@ -624,4 +624,4 @@
           url: https://www.imooc.com/
           logo: imooc.png
           description: 程序员的梦工厂（有UI课程）。
-        
+
